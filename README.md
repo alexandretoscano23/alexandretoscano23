@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-toscano-diniz-9a6b112b3/)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandretoscano23&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretoscano23)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias
 
