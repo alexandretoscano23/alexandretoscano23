@@ -1,7 +1,7 @@
 ### Olá! Sou Alexandre Toscano 👋
 
 - 📚 Cursando Ciências da Computação
-- 👨🏽‍💻 Estudando Desenvolvimento Web
+- 👨🏽‍💻 Dev Front-End
 - 📩 email para contato: toscanodinizalexandre32@gmail.com
 
 <div> 
