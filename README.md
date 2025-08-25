@@ -1,4 +1,4 @@
-### Olá! Sou Alexandre Toscano 👋
+### Alexandre Toscano 
 
 - 📚 Cursando Ciências da Computação
 - 👨🏽‍💻 Dev Front-End
