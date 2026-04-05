@@ -1,7 +1,6 @@
 ### Alexandre Toscano 
 
 - 📚 Cursando Ciências da Computação
-- 👨🏽‍💻 Dev Front-End
 - 📩 email para contato: toscanodinizalexandre32@gmail.com
 
 <div> 
