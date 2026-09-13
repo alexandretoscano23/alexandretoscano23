@@ -41,4 +41,4 @@ Minha experiência é focada no desenvolvimento de sistemas completos usando tec
 ## Entrar em contato 📬
 
 - 💼 LinkedIn: https://www.linkedin.com/in/alexandre-toscano-diniz/
-- 📨 toscanodinizalexandre32@gmail.com
+- 📨 email: toscanodinizalexandre32@gmail.com
