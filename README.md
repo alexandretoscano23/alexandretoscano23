@@ -9,11 +9,11 @@
 
 ---
 
-## About Me 🚀
+## Sobre mim 🚀
 
 Sou **Alexandre Toscano**, um desenvolvedor full stack focado na criação de aplicações web escaláveis, automação de processos e soluções.
 
-Minha experiência é focada no desenvolvimento de sistemas completos usando tecnologias web modernas 
+Minha experiência é focada no desenvolvimento de sistemas completos usando tecnologias web modernas.
 
   
 ### Principais tecnologias
