@@ -2,16 +2,14 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ---
 
 ## Sobre mim 🚀
 
-Sou **Alexandre Toscano**, um desenvolvedor full stack focado na criação de aplicações web escaláveis, automação de processos e soluções.
+Sou **Alexandre Toscano**, um desenvolvedor full stack focado em back-end e na criação de aplicações web escaláveis, automação de processos e soluções.
 
 Minha experiência é focada no desenvolvimento de sistemas completos usando tecnologias web modernas.
 
