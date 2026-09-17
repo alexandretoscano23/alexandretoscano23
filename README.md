@@ -11,17 +11,13 @@
 
 ## Sobre mim 🚀
 
-Sou **Alexandre Toscano**, um desenvolvedor full stack focado em back-end python e na criação de aplicações web escaláveis, automação de processos e soluções.
-
-Minha experiência é focada no desenvolvimento de sistemas completos usando tecnologias web modernas.
+Sou **Alexandre Toscano**, um desenvolvedor focado em back-end python e interessado na criação de aplicações web, automação de processos e soluções escaláveis, de processos e soluções.
 
   
 ### Principais tecnologias
 
 - 🐍 **Python**
-- ⚛️ **React**
-- ⚡ **TypeScript & JavaScript**
-- 🎨 **HTML5 & CSS3**
+- 🗄️ SQL
 
 ---  
 
@@ -32,11 +28,12 @@ Minha experiência é focada no desenvolvimento de sistemas completos usando tec
 
 - Python
 
-**Frontend**
+**Banco de Dados**
+- SQL
 
+**Frontend**
 - React
 - TypeScript
-- JavaScript
 - HTML5
 - CSS3
 
