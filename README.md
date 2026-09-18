@@ -2,7 +2,6 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 
@@ -29,7 +28,7 @@ Sou **Alexandre Toscano**, um desenvolvedor focado em back-end python e interess
 - Python
 
 **Banco de Dados**
-- SQL
+- SQLite
 
 **Frontend**
 - React
